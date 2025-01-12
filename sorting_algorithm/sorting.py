@@ -19,7 +19,7 @@ def print_array(arr):
 
 # Driver code
 if __name__ == "__main__":
-    arr = [5, 2, 9, 1, 5, 6]
+    arr = [1, 2, 12, 1, 0, 9]
 
     print("Unsorted Array:")
     print_array(arr)
