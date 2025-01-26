@@ -17,6 +17,7 @@ def insert_sort_mono_decreasing(arr):
 def print_array(arr):
     print(" ".join(map(str, arr)))
 
+
 # Driver code
 if __name__ == "__main__":
     arr = [1, 2, 12, 1, 0, 9]
